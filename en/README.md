@@ -25,6 +25,7 @@ The name Dify comes from Define + Modify, referring to defining and continuously
 * **Startups** - Quickly turn your AI ideas into reality, accelerating both success and failure. In the real world, dozens of teams have already built MVPs to get funding or win customer orders through Dify.
 * **Integrate LLMs into existing businesses** - Enhance capabilities of current apps by introducing LLMs. Access Dify’s RESTful APIs to decouple Prompts from business logic. Use Dify’s management interface to track data, costs and usage while continuously improving performance.
 * **Enterprise LLM infrastructure** - Some banks and internet companies are deploying Dify as an internal LLM gateway, accelerating the adoption of GenAI technologies while enabling centralized governance.
+* ///test merge changes without gitbook
 * **Explore LLM capabilities** - Even as a tech enthusiast, you can easily practice Prompt engineering and Agent technologies through Dify. Over 60,000 developers have built their first app on Dify even before GPTs came out.
 
 ### Next Steps
