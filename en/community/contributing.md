@@ -151,4 +151,4 @@ And that's it! Once your PR is merged, you will be featured as a contributor in 
 
 ### Getting Help
 
-If you ever get stuck or got a burning question while contributing, simply shoot your queries our way via the related GitHub issue, or hop onto our [Discord](https://discord.gg/AhzKf7dNgk) for a quick chat.
+If you ever get stuck or got a burning question while contributing, simply shoot your queries our way via the related GitHub issue, or hop onto our [Discord](https://discord.gg/kJtxDvwzGk) for a quick chat.
