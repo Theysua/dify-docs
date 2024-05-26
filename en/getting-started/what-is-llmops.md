@@ -30,8 +30,7 @@ With the introduction of an LLMOps platform like Dify, the process of developing
 2. Prompt Engineering: WYSIWYG Prompt editing and debugging, allowing real-time optimization and adjustments based on user input data.
 3. Embedding and Context Management: Automatically handling the embedding, storage, and management of long contexts, improving efficiency and scalability without the need for extensive coding.
 4. Application Monitoring and Maintenance: Real-time monitoring of performance data, quickly identifying and addressing issues, ensuring the stable operation of applications, and providing complete log records.
-5. Model Fine-tuning: Such platform offers one-click fine-tuning functionality based on previously annotated real-use data, improving model performance and reducing coding work.
-6.  System and Operations: User-friendly interface accessible to non-technical users, supporting collaboration among multiple team members, and reducing development and maintenance costs. Compared to traditional development methods, Dify offers more transparent and easy-to-monitor application management, allowing team members to better understand the application's operation.
+5. System and Operations: User-friendly interface accessible to non-technical users, supporting collaboration among multiple team members, and reducing development and maintenance costs. Compared to traditional development methods, Dify offers more transparent and easy-to-monitor application management, allowing team members to better understand the application's operation.
 
 
 
